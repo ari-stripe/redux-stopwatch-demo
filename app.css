@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+
+.container {
+  height: 100%;
+  left: 0;
+  padding: 15px;
+  top: 0;
+  width: 100%;
+}
+
+.stopwatch {
+  font-size: 32px;
+}
+
+.color-green {
+  color: green;
+}
+
+.color-red {
+  color: red;
+}
